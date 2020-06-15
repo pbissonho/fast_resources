@@ -1,0 +1,6 @@
+name: store
+description: Create mobx store.
+to: lib/stores/
+args:
+  - name
+
