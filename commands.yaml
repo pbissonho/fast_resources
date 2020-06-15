@@ -1,0 +1,5 @@
+commands:
+  runner: flutter build runner build
+  push: git push origin master
+  mkdir: mkdir myFolder
+

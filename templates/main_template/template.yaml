@@ -1,0 +1,6 @@
+name: main
+description: Create main file.
+to: lib/
+args:
+  - name
+ 
