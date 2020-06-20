@@ -9,7 +9,7 @@ structure:
     - themes
   - data:
     - models
-    - repositorys
+    - repositories
   - blocs
    
 test_structure:

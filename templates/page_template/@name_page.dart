@@ -10,9 +10,14 @@ class _@NamePageState extends State<@NamePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: Text("Hello"),
+        child: Column(
+          children: <Widget>[
+            Text("@msg"),
+          ],
+        ),
       ),
     );
   }
 }
+
 

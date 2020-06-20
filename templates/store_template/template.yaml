@@ -4,3 +4,9 @@ to: lib/stores/
 args:
   - name
 
+snippets:
+  - file: '@name_store.dart'
+    prefix: store
+    excluded:
+      - 0
+      - 1
