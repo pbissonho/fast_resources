@@ -1,8 +1,8 @@
 name: full
 description: Create a Flutter Widget.
-to: lib/ui/pages/@full
+to: lib/ui/pages/@name
 args:
-  - full
+  - name
  
 snippets:
   - file: '@name_full.dart'
